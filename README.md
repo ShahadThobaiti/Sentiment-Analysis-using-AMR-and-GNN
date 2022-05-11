@@ -10,4 +10,4 @@
 
 ##### Baseline Models
 
-`baselines.ipynb`: We compare our model with six baseline models known for sentiment analysis. This file contains five of them, including Decision Tree Classifier, Random Forest Classifer, Logistic Regressor, Gradient Boost Regressor and XGBoost Classifier. We also implemented lemmatization from NLTK to preprocess the data before training. We provide the same dataset for all models with 80:20 training-to-testing ratio.
+`Baselines.ipynb`: We compare our model with six baseline models known for sentiment analysis. This file contains five of them, including Decision Tree Classifier, Random Forest Classifer, Logistic Regressor, Gradient Boost Regressor and XGBoost Classifier. We also implemented lemmatization from NLTK to preprocess the data before training. We provide the same dataset for all models with 80:20 training-to-testing ratio.
