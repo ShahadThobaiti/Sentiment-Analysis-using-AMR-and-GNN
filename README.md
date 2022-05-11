@@ -2,7 +2,7 @@
 
 Graph Neural Networks are a promising approach in Natural Language Processing that have applications in dependency parsing and question answering systems [1][2]. This motivates us to build a text classification model that utilizes Abstract Meaning Representation (AMR) and a Graph Neural Networks (GNN). We use the AMR to parse sentences into graph structure to be trained in GNN. For evaluation, we train our proposed model with a sentiment analysis task and compare it to baseline models such as Logistic Regression, as well as with state-of-the-art models such as BERT classifier. 
 
-The poster of this work can be found here
+The poster of this work can be found [here](Poster.pdf)
 
 
 
